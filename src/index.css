@@ -45,32 +45,3 @@ footer h2 {
   color: #222;
   margin: 0;
 }
-
-
-.about {
-  background: #333;
-  color: white;
-  padding: 30px;
-}
-
-.about h1 {
-  color: orangered;
-  text-align: center;
-  font-size: 70px;
-}
-
-.about img {
-  width: 40%;
-  height: 400px;
-  float: left;
-  margin-right: 100px;
-}
-
-.about h2 {
-  font-size: 40px;
-}
-
-.about p {
-  font-size: 20px;
-}
-

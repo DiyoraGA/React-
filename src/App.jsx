@@ -8,38 +8,6 @@ const App = () => {
 
       <section className="about">
         
-
-  <h1>About</h1>
-
-  <img src="https://images.unsplash.com/photo-1555215695-3004980ad54e?w=700" />
-
-  <h2>BMW best car is planet</h2>
-
-  <p>
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-    Id aliquam odio, vel cumque a rem similique libero
-    consequuntur modi repellendus earum natus quia.
-    Minus dignissimos vitae tenetur quos nostrum tempore,
-    repellendus voluptate ipsum non adipisci, ab, officia eaque.
-    Recusandae veritatis, rerum animi, maxime, laudantium
-    impedit reiciendis inventore doloremque cum aperiam
-    architecto atque!
-  </p>
-
-  <p>
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-    Id aliquam odio, vel cumque a rem similique libero
-    consequuntur modi repellendus earum natus quia.
-    Minus dignissimos vitae tenetur quos nostrum tempore.
-  </p>
-
-  <p>
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-    Id aliquam odio, vel cumque a rem similique libero
-    consequuntur modi repellendus earum natus quia.
-  </p>
-
-
       </section>
 
       <section className="cars">
